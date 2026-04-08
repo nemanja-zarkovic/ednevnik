@@ -1,0 +1,15 @@
+   #intro-example {
+      background: url('../img/ucionica.jpg') center/cover no-repeat; 
+      height: 100vh;
+    }
+
+    @media (min-width: 992px) {
+      #intro {
+        margin-top: -58.59px;
+      }
+    }
+
+    .navbar .nav-link {
+      color: #fff !important;
+    }
+  
